@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+/* targets header id top */
+#top {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 1rem;
+    background-color: darkgray;
+    padding: 1rem;
+    font-weight: bold;
+}
