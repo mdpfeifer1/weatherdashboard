@@ -4,6 +4,8 @@
 
 ## Description 
 
+Application designed to fetch weather data for cities. 
+
 
 
 ## Deployed
@@ -17,7 +19,7 @@
 - [License](#license)
 
 ## Usage
-(![Project]())
+(![Project](/assets/127.0.0.1_5500_index.html_.png))
 
 ## Credits
 

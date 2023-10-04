@@ -11,8 +11,14 @@
     display: block;
     text-align: center;
     font-size: 30px;
-    margin-top: 1rem;
     background-color: darkgray;
-    padding: 1rem;
+    padding: 2rem;
     font-weight: bold;
 }
+
+.col {
+    background-color: red;
+    padding: 10px;
+    justify-content: inbetween;
+}
+
